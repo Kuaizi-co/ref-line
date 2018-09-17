@@ -6,8 +6,8 @@
     "dev": "browser-sync start --server --files='**/*.css, **/*.html, **/*.js'",
     "build": "webpack -p"
   },
-  "repository": "git@github.com:think2011/RefLine.git",
-  "author": "think2011 <452125301.hzplay@gmail.com>",
+  "repository": "https://github.com/Kuaizi-co/ref-line.git",
+  "author": "Kuaizi-co",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.0",
